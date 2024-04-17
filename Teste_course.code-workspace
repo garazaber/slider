@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Teste_course"
+		},
+		{
+			"name": "slider",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "slider"
+	}
+}
